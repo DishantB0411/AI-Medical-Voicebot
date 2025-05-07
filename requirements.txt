@@ -1,2 +1,9 @@
 groq
 python-dotenv
+ffmpeg
+pyaudio
+speechrecognition
+pydub
+gtts
+elevenlabs
+gradio
